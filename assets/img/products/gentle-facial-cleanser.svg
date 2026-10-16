@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Gentle Facial Cleanser">
+
+  <rect width="900" height="1100" fill="#F1E9E3"/>
+  <ellipse cx="450" cy="470" rx="430" ry="430" fill="#FCF6F1" opacity="0.85"/>
+  <ellipse cx="450" cy="912" rx="205" ry="24" fill="#1B1917" opacity="0.07"/>
+
+  <rect x="408" y="264" width="84" height="70" rx="10" fill="#7A6152"/>
+  <path d="M352 872V400c0-32 20-58 44-66h108c24 8 44 34 44 66v472z" fill="#D8C1B0"/>
+  <path d="M504 334c24 8 44 34 44 66v472h-38V334z" fill="#C4A895" opacity="0.55"/>
+  <path d="M340 872h220l-16 34H356z" fill="#7A6152" opacity="0.85"/>
+
+  <rect x="372" y="470" width="156" height="214" fill="#FBF9F5"/>
+  <rect x="372" y="470" width="156" height="214" fill="none" stroke="#1B1917" stroke-opacity="0.08"/>
+  <text x="450" y="516" text-anchor="middle" fill="#1B1917" fill-opacity="0.55"
+        font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="6">SKIBIDI</text>
+  <line x1="424" y1="536" x2="476" y2="536" stroke="#1B1917" stroke-opacity="0.2"/>
+  <text x="450" y="580.36" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="26">GENTLE</text>
+  <text x="450" y="616.36" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="26">FACIAL</text>
+  <text x="450" y="652.36" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="26">CLEANSER</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Daily Balance Shampoo">
+
+  <rect width="900" height="1100" fill="#E8EAE4"/>
+  <ellipse cx="450" cy="470" rx="430" ry="430" fill="#F6F7F2" opacity="0.85"/>
+  <ellipse cx="450" cy="912" rx="205" ry="24" fill="#1B1917" opacity="0.07"/>
+
+  <rect x="396" y="268" width="108" height="46" rx="12" fill="#57614F"/>
+  <rect x="470" y="284" width="72" height="17" rx="8" fill="#57614F"/>
+  <rect x="418" y="312" width="64" height="62" fill="#93A08C"/>
+  <path d="M330 900V440c0-40 26-60 60-70h120c34 10 60 30 60 70v460z" fill="#A9B3A3"/>
+  <path d="M510 370c34 10 60 30 60 70v460h-40V370z" fill="#93A08C" opacity="0.55"/>
+
+  <rect x="354" y="512" width="192" height="214" fill="#FBF9F5"/>
+  <rect x="354" y="512" width="192" height="214" fill="none" stroke="#1B1917" stroke-opacity="0.08"/>
+  <text x="450" y="558" text-anchor="middle" fill="#1B1917" fill-opacity="0.55"
+        font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="6">SKIBIDI</text>
+  <line x1="424" y1="578" x2="476" y2="578" stroke="#1B1917" stroke-opacity="0.2"/>
+  <text x="450" y="622.36" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="30">DAILY</text>
+  <text x="450" y="658.36" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="30">BALANCE</text>
+  <text x="450" y="694.36" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="30">SHAMPOO</text>
+</svg>

@@ -1,0 +1,15 @@
+# SKIBIDI (PHP) — allowlist .gitignore: ignore everything, then re-include only the runnable lab.
+/*
+!/app/
+!/assets/
+!/sql/
+!/tests/
+!/README.md
+!/.gitignore
+
+# Drop strays / secrets even under re-included dirs.
+app/config.local.php
+*.bak
+*.log
+.env
+__pycache__/

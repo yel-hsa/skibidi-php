@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1100" width="900" height="1100" role="img" aria-label="Soft Touch Hand Lotion">
+
+  <rect width="900" height="1100" fill="#EFEAE0"/>
+  <ellipse cx="450" cy="470" rx="430" ry="430" fill="#FAF6EE" opacity="0.85"/>
+  <ellipse cx="450" cy="912" rx="205" ry="24" fill="#1B1917" opacity="0.07"/>
+
+  <rect x="292" y="412" width="316" height="96" rx="20" fill="#6E6154"/>
+  <rect x="292" y="412" width="316" height="96" rx="20" fill="#1B1917" opacity="0.06"/>
+  <rect x="312" y="500" width="276" height="400" rx="34" fill="#CBBBA6"/>
+  <path d="M540 500h14c19 0 34 15 34 34v332c0 19-15 34-34 34h-14z" fill="#B7A48C" opacity="0.5"/>
+
+  <rect x="348" y="588" width="204" height="214" fill="#FBF9F5"/>
+  <rect x="348" y="588" width="204" height="214" fill="none" stroke="#1B1917" stroke-opacity="0.08"/>
+  <text x="450" y="634" text-anchor="middle" fill="#1B1917" fill-opacity="0.55"
+        font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="6">SKIBIDI</text>
+  <line x1="424" y1="654" x2="476" y2="654" stroke="#1B1917" stroke-opacity="0.2"/>
+  <text x="450" y="687.8" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="26">SOFT</text>
+  <text x="450" y="717.8" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="26">TOUCH</text>
+  <text x="450" y="747.8" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="26">HAND</text>
+  <text x="450" y="777.8" text-anchor="middle" fill="#1B1917"
+        font-family="Georgia, 'Times New Roman', serif" font-size="26">LOTION</text>
+</svg>

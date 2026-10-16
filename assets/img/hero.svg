@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1250" width="1000" height="1250" role="img" aria-label="SKIBIDI essentials">
+  <rect width="1000" height="1250" fill="#F1E9E3"/>
+  <ellipse cx="500" cy="520" rx="470" ry="480" fill="#FCF6F1" opacity="0.85"/>
+  <ellipse cx="500" cy="1010" rx="360" ry="26" fill="#1B1917" opacity="0.08"/>
+  <g>
+    <rect x="196" y="600" width="196" height="392" rx="28" fill="#A9B3A3"/>
+    <rect x="176" y="566" width="236" height="36" rx="12" fill="#57614F"/>
+    <rect x="216" y="672" width="156" height="150" fill="#FBF9F5" opacity="0.94"/>
+    <rect x="424" y="430" width="216" height="562" rx="32" fill="#D8C1B0"/>
+    <rect x="486" y="352" width="92" height="80" rx="14" fill="#7A6152"/>
+    <rect x="452" y="560" width="160" height="212" fill="#FBF9F5"/>
+    <text x="532" y="614" text-anchor="middle" fill="#1B1917" fill-opacity="0.55"
+          font-family="Helvetica, Arial, sans-serif" font-size="15" letter-spacing="6">SKIBIDI</text>
+    <line x1="506" y1="634" x2="558" y2="634" stroke="#1B1917" stroke-opacity="0.2"/>
+    <text x="532" y="682" text-anchor="middle" fill="#1B1917"
+          font-family="Georgia, 'Times New Roman', serif" font-size="30">DAILY</text>
+    <text x="532" y="720" text-anchor="middle" fill="#1B1917"
+          font-family="Georgia, 'Times New Roman', serif" font-size="30">RITUAL</text>
+    <rect x="668" y="700" width="164" height="292" rx="26" fill="#CBBBA6"/>
+    <rect x="654" y="666" width="192" height="36" rx="12" fill="#6E6154"/>
+    <rect x="686" y="756" width="128" height="128" fill="#FBF9F5" opacity="0.94"/>
+  </g>
+</svg>
